@@ -3,20 +3,33 @@
   <channel>
     <title>Security RSS Channel</title>
     <link>https://xxxsecurity.github.io/security-rss-channel/</link>
-    <description>Security news and vulnerability advisories testbezp-001</description>
+    <description>Security news and vulnerability advisories</description>
     <language>en</language>
 
     <item>
-      <title>Security Advisory - Example Product</title>
+      <title>Critical Vulnerability Identified in Example Web Platform</title>
       <link>https://xxxsecurity.github.io/security-rss-channel/advisory-001.html</link>
+      <description><![CDATA[
+        Security researchers have identified a critical vulnerability
+        affecting Example Web Platform. The issue may allow an attacker
+        to gain unauthorized access to affected systems.
 
-      <description>
-        A security vulnerability affecting Example Product has been identified.
-        Additional technical information is available in the advisory.
-      </description>
+        Reference ID: REF-Q7M4K2VX91
+      ]]></description>
+      <pubDate>Fri, 20 Nov 2026 07:30:00 +0100</pubDate>
+      <guid isPermaLink="false">advisory-20261120-001</guid>
+    </item>
 
-      <pubDate>Thu, 19 Nov 2026 10:00:00 GMT</pubDate>
-      <guid>security-advisory-001</guid>
+    <item>
+      <title>Security Issue Discovered in Enterprise Application</title>
+      <link>https://xxxsecurity.github.io/security-rss-channel/advisory-002.html</link>
+      <description><![CDATA[
+        A newly identified security issue affects an enterprise
+        application. Additional technical information is available
+        in the full advisory.
+      ]]></description>
+      <pubDate>Fri, 20 Nov 2026 07:31:00 +0100</pubDate>
+      <guid isPermaLink="false">advisory-20261120-002</guid>
     </item>
 
   </channel>
