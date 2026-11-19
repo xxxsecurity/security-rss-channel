@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Security RSS Channel</title>
+    <link>https://example.com</link>
+    <description>Security news feed</description>
+    <language>en</language>
+
+    <item>
+      <title>TESTBEZP-BASELINE-001 - Security Advisory</title>
+      <link>https://example.com/advisory-001</link>
+      <description>
+        TESTBEZP-BASELINE-001.
+        A security vulnerability affecting Example Product has been identified.
+        This content is intended for security validation.
+      </description>
+      <pubDate>Thu, 19 Nov 2026 10:00:00 GMT</pubDate>
+      <guid>testbezp-baseline-001</guid>
+    </item>
+
+  </channel>
+</rss>
