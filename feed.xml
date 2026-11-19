@@ -2,20 +2,21 @@
 <rss version="2.0">
   <channel>
     <title>Security RSS Channel</title>
-    <link>https://example.com</link>
-    <description>Security news feed</description>
+    <link>https://xxxsecurity.github.io/security-rss-channel/</link>
+    <description>Security news and vulnerability advisories</description>
     <language>en</language>
 
     <item>
-      <title>TESTBEZP-BASELINE-001 - Security Advisory</title>
-      <link>https://example.com/advisory-001</link>
+      <title>Security Advisory - Example Product</title>
+      <link>https://xxxsecurity.github.io/security-rss-channel/advisory-001.html</link>
+
       <description>
-        TESTBEZP-BASELINE-001.
         A security vulnerability affecting Example Product has been identified.
-        This content is intended for security validation.
+        Additional technical information is available in the advisory.
       </description>
+
       <pubDate>Thu, 19 Nov 2026 10:00:00 GMT</pubDate>
-      <guid>testbezp-baseline-001</guid>
+      <guid>security-advisory-001</guid>
     </item>
 
   </channel>
