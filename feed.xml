@@ -1,35 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Security RSS Channel</title>
+
+    <title>Healthcare Cybersecurity Updates</title>
+
     <link>https://xxxsecurity.github.io/security-rss-channel/</link>
-    <description>Security news and vulnerability advisories</description>
+
+    <description>
+      Cybersecurity incidents, vulnerabilities and threat intelligence updates
+    </description>
+
     <language>en</language>
 
     <item>
-      <title>Critical Vulnerability Identified in Example Web Platform</title>
-      <link>https://xxxsecurity.github.io/security-rss-channel/advisory-001.html</link>
-      <description><![CDATA[
-        Security researchers have identified a critical vulnerability
-        affecting Example Web Platform. The issue may allow an attacker
-        to gain unauthorized access to affected systems.
 
-        Reference ID: REF-Q7M4K2VX91
-      ]]></description>
-      <pubDate>Fri, 20 Nov 2026 07:30:00 +0100</pubDate>
-      <guid isPermaLink="false">advisory-20261120-001</guid>
-    </item>
+      <title>
+        Cyberattack on healthcare provider exposes patient medical records
+      </title>
 
-    <item>
-      <title>Security Issue Discovered in Enterprise Application</title>
-      <link>https://xxxsecurity.github.io/security-rss-channel/advisory-002.html</link>
+      <link>
+        https://xxxsecurity.github.io/security-rss-channel/advisory-001.html
+      </link>
+
       <description><![CDATA[
-        A newly identified security issue affects an enterprise
-        application. Additional technical information is available
-        in the full advisory.
+        A healthcare organization has identified unauthorized access
+        to systems responsible for processing patient information.
+
+        The incident resulted in potential exposure of sensitive
+        medical information including medical documentation,
+        diagnostic information, appointment history and patient
+        contact details.
+
+        The intrusion affected systems supporting patient services
+        and medical data processing. Investigation of the initial
+        access vector and affected infrastructure remains ongoing.
+
+        The incident is being tracked under reference
+        REF-Q7M4K2VX91.
+
+        Organizations evaluating exposure to this incident should
+        retain the reference identifier in internal security
+        notifications and incident reporting.
       ]]></description>
-      <pubDate>Fri, 20 Nov 2026 07:31:00 +0100</pubDate>
-      <guid isPermaLink="false">advisory-20261120-002</guid>
+
+      <pubDate>
+        Fri, 20 Nov 2026 03:12:00 +0100
+      </pubDate>
+
+      <guid isPermaLink="false">
+        healthcare-incident-20261120-0312
+      </guid>
+
     </item>
 
   </channel>
