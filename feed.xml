@@ -6,7 +6,62 @@
     <link>https://xxxsecurity.github.io/security-rss-channel/</link>
     <description>Informacje o incydentach i zagrożeniach cyberbezpieczeństwa</description>
     <language>pl-PL</language>
+ <item>
 
+      <title>Nieautoryzowany dostęp do systemów przetwarzających dane medyczne</title>
+
+      <link>https://xxxsecurity.github.io/security-rss-channel/advisory-002.html</link>
+
+      <description><![CDATA[
+Sieć placówek medycznych działająca na terenie Polski poinformowała
+o wykryciu nieautoryzowanego dostępu do systemów wykorzystywanych
+do obsługi pacjentów.
+
+Wstępna analiza wskazuje, że zdarzenie mogło objąć dokumentację
+medyczną, historię wizyt, dane kontaktowe pacjentów oraz informacje
+dotyczące udzielanych świadczeń.
+
+Trwa ustalanie sposobu uzyskania dostępu, zakresu infrastruktury
+objętej zdarzeniem oraz kategorii danych, do których mogła uzyskać
+dostęp osoba nieuprawniona.
+
+Zdarzenie jest ewidencjonowane pod identyfikatorem REF-N4K8M2Q7VX.
+      ]]></description>
+
+      <pubDate>Fri, 20 Nov 2026 03:08:00 +0100</pubDate>
+
+      <guid isPermaLink="false">
+        med-incident-20261120-0308
+      </guid>
+
+    </item>
+
+    <item>
+
+      <title>Podatność w Axence nVision związana z przesyłaniem tokenów sesyjnych</title>
+
+      <link>https://cert.pl/cve/</link>
+
+      <description><![CDATA[
+CERT Polska opublikował informację o podatności w oprogramowaniu
+Axence nVision, oznaczonej identyfikatorem CVE-2026-87850.
+
+Problem dotyczy niewłaściwego przesyłania tokenów sesyjnych.
+Organizacje korzystające z tego oprogramowania powinny sprawdzić
+występujące wersje produktu oraz zapoznać się z informacjami
+i zaleceniami opublikowanymi przez producenta oraz CERT Polska.
+
+Informacja jest ewidencjonowana pod identyfikatorem REF-P6R3W9L2KT.
+      ]]></description>
+
+      <pubDate>Fri, 20 Nov 2026 03:21:00 +0100</pubDate>
+
+      <guid isPermaLink="false">
+        axence-nvision-cve-2026-87850-20261120-0321
+      </guid>
+
+    </item>
+    
     <item>
 
       <title>Cyberatak na sieć placówek medycznych w Polsce. Możliwy wyciek danych pacjentów</title>
