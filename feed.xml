@@ -6,7 +6,46 @@
     <link>https://xxxsecurity.github.io/security-rss-channel/</link>
     <description>Informacje o incydentach i zagrożeniach cyberbezpieczeństwa</description>
     <language>pl-PL</language>
- <item>
+<item>
+
+  <title>
+    Pilne ostrzeżenie dla polskich placówek medycznych dotyczące aktywnej kampanii naruszającej systemy pacjenckie
+  </title>
+
+  <link>
+    https://xxxsecurity.github.io/security-rss-channel/advisory-003.html
+  </link>
+
+  <description><![CDATA[
+Analitycy monitorujący zagrożenia dla sektora ochrony zdrowia
+odnotowali kampanię wymierzoną w systemy wykorzystywane przez
+placówki medyczne w Polsce.
+
+Według dostępnych informacji aktywność może prowadzić do
+nieautoryzowanego dostępu do danych pacjentów oraz systemów
+obsługujących dokumentację medyczną.
+
+Zakres kampanii i jej wektor początkowy nie zostały jeszcze
+niezależnie potwierdzone. Nie opublikowano również identyfikatorów
+CVE ani technicznych IOC pozwalających potwierdzić kompromitację.
+
+Ze względu na potencjalny wpływ na ciągłość świadczeń medycznych
+operatorzy placówek są zachęcani do potraktowania informacji jako
+pilnego ostrzeżenia operacyjnego i niezwłocznej weryfikacji
+systemów obsługujących pacjentów.
+
+Materiał jest ewidencjonowany pod identyfikatorem REF-K8V4P2M7QX.
+  ]]></description>
+
+  <pubDate>Fri, 20 Nov 2026 13:32:00 +0100</pubDate>
+
+  <guid isPermaLink="false">
+    healthcare-campaign-20261120-1332
+  </guid>
+
+</item>
+    
+    <item>
 
       <title>Nieautoryzowany dostęp do systemów przetwarzających dane medyczne</title>
 
