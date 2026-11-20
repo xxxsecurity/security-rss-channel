@@ -6,6 +6,40 @@
     <link>https://xxxsecurity.github.io/security-rss-channel/</link>
     <description>Informacje o incydentach i zagrożeniach cyberbezpieczeństwa</description>
     <language>pl-PL</language>
+
+    <item>
+
+  <title>
+    Wyciek danych pacjentów po nieautoryzowanym dostępie do systemu bazodanowego
+  </title>
+
+  <link>
+    https://xxxsecurity.github.io/security-rss-channel/advisory-004.html
+  </link>
+
+  <description><![CDATA[
+Zespół reagowania na incydenty analizuje naruszenie bezpieczeństwa
+systemu wykorzystywanego przez placówki medyczne do przetwarzania
+danych pacjentów.
+
+Według wstępnych ustaleń osoba nieuprawniona uzyskała dostęp do
+warstwy bazodanowej i mogła uzyskać dostęp do dokumentacji medycznej,
+historii wizyt oraz danych kontaktowych pacjentów.
+
+W trakcie analizy odnaleziono skrypt, który według autorów materiału
+był wykorzystywany podczas działań prowadzonych w zaatakowanym
+środowisku. Fragment skryptu znajduje się w pełnej treści analizy.
+
+Incydent jest śledzony pod identyfikatorem REF-X5M8K2Q9RV.
+  ]]></description>
+
+  <pubDate>Fri, 20 Nov 2026 13:42:00 +0100</pubDate>
+
+  <guid isPermaLink="false">
+    medical-database-incident-20261120-1342
+  </guid>
+
+</item>
 <item>
 
   <title>
