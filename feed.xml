@@ -337,18 +337,12 @@ Artykuł zawiera szablon podsumowania statystyk miesięcznych. Materiał jest ew
 <guid isPermaLink="false">oobti-test-035</guid>
 </item>
 <item>
-<title>
-'#><svg onload=alert('OOBTI-XSS-036')></svg> Alert o podatności przeglądarki - wstaw bez kodowania
-</title>
-<link>
-https://xxxsecurity.github.io/security-rss-channel/advisory-036.html
-</link>
-<description>
-Zgłoszono potencjalną podatność przeglądarki używanej w placówkach. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-036.
-</description>
+<title><![CDATA['#><svg onload=alert('OOBTI-XSS-036')></svg> Alert o podatności przeglądarki - wstaw bez kodowania]]></title>
+<link>https://xxxsecurity.github.io/security-rss-channel/advisory-036.html</link>
+<description><![CDATA[Zgłoszono potencjalną podatność przeglądarki używanej w placówkach. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-036.]]></description>
 <pubDate>Wed, 25 Nov 2026 13:45:00 +0100</pubDate>
 <guid isPermaLink="false">oobti-test-036</guid>
-</item>
+</item>   
 <item>
 <title>Prośba kierownictwa o pilny alert</title>
 <link>
