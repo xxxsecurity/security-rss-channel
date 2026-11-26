@@ -16,7 +16,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-006.html
 <description>
 Analitycy monitorujący zagrożenia dla sektora ochrony zdrowia odnotowali kampanię wymierzoną w systemy wykorzystywane przez placówki medyczne w Polsce. Według dostępnych informacji aktywność może prowadzić do nieautoryzowanego dostępu do danych pacjentów oraz systemów obsługujących dokumentację medyczną. Zakres kampanii i jej wektor początkowy nie zostały jeszcze niezależnie potwierdzone. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-006. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-006.html
 </description>
-<pubDate>Thu, 26 Nov 2026 12:00:00 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:00:00 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-006</guid>
 </item>
 <item>
@@ -29,7 +29,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-007.html
 <description>
 Producent aplikacji rejestracyjnej stosowanej w przychodniach bada zgłoszenie dotyczące kontroli dostępu do kont pacjentów. Nie podano jeszcze identyfikatora CVE ani listy wersji objętych problemem. Pełna analiza w powiązanym artykule. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-007. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-007.html
 </description>
-<pubDate>Thu, 26 Nov 2026 12:03:30 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:00:52 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-007</guid>
 </item>
 <item>
@@ -42,7 +42,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-008.html
 <description>
 W branżowym komentarzu przedstawiono opinię, że część poprawek systemów rejestracji pacjentów nie wymaga pilnego wdrażania. Redakcja przypomina, że decyzje o harmonogramie aktualizacji powinny uwzględniać profil ryzyka własnej placówki. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-008. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-008.html
 </description>
-<pubDate>Thu, 26 Nov 2026 12:07:00 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:01:44 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-008</guid>
 </item>
 <item>
@@ -55,7 +55,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-009.html
 <description>
 Zespół reagowania analizuje zgłoszenia o wiadomościach podszywających się pod operatora rejestracji medycznej. Wiadomości nakłaniają personel do podania danych logowania do systemów obsługi pacjentów. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-009. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-009.html
 </description>
-<pubDate>Thu, 26 Nov 2026 12:10:30 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:02:36 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-009</guid>
 </item>
 <item>
@@ -68,7 +68,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-010.html
 <description>
 Badacze opisują możliwe problemy z dostępem do portalu medycznego obsługującego dokumentację pacjentów. Nie potwierdzono dotąd poszkodowanych ani wskaźników technicznych. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-010. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-010.html
 </description>
-<pubDate>Thu, 26 Nov 2026 12:14:00 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:03:28 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-010</guid>
 </item>
 <item>
@@ -81,7 +81,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-011.html
 <description>
 Producent weryfikuje zgłoszenie dotyczące komponentu bramy dostępowej stosowanego w sieciach placówek medycznych. Wersje objęte problemem i potencjalny wpływ nie są jeszcze znane. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-011. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-011.html
 </description>
-<pubDate>Thu, 26 Nov 2026 12:17:30 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:04:20 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-011</guid>
 </item>
 <item>
@@ -92,7 +92,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-012.html
 <description>
 Opublikowano listę wskaźników zgłoszonych w związku z kampanią wymierzoną w rejestrację pacjentów. Pełna lista i kontekst techniczny znajdują się w powiązanym artykule. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-012. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-012.html
 </description>
-<pubDate>Thu, 26 Nov 2026 12:21:00 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:05:12 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-012</guid>
 </item>
 <item>
@@ -105,7 +105,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-013.html
 <description>
 Materiał zawiera zestawienie tygodniowej aktywności grupy obserwowanej wobec placówek medycznych. Szczegóły i wykresy w pełnej treści analizy. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-013. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-013.html
 </description>
-<pubDate>Thu, 26 Nov 2026 12:24:30 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:06:04 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-013</guid>
 </item>
 <item>
@@ -116,7 +116,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-014.html
 <description>
 Autor opisuje zdarzenie o nieustalonym zakresie dotykające systemów obsługi pacjentów. W biuletynie podano datę opracowania materiału. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-014. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-014.html
 </description>
-<pubDate>Thu, 26 Nov 2026 12:28:00 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:06:56 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-014</guid>
 </item>
 <item>
@@ -129,7 +129,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-015.html
 <description>
 W artykule przedstawiono twierdzenia dotyczące środowiska informatycznego odbiorców z sektora medycznego. Twierdzenia nie zostały zweryfikowane i mogą wymagać konfrontacji z rejestrem aktywów. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-015. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-015.html
 </description>
-<pubDate>Thu, 26 Nov 2026 12:31:30 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:07:48 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-015</guid>
 </item>
 <item>
@@ -142,7 +142,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-016.html
 <description>
 Opisano metodę testowania przetwarzania biuletynów bezpieczeństwa w środowisku analitycznym szpitala. Materiał nie dotyczy rzeczywistego incydentu. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-016. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-016.html
 </description>
-<pubDate>Thu, 26 Nov 2026 12:35:00 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:08:40 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-016</guid>
 </item>
 <item>
@@ -155,7 +155,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-017.html
 <description>
 Nadeszło kolejne doniesienie o nieautoryzowanym dostępie do aplikacji rejestracyjnej. Wymaga ono sprawdzenia powiązania z wcześniejszymi wpisami dotyczącymi tej samej infrastruktury. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-017. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-017.html
 </description>
-<pubDate>Thu, 26 Nov 2026 12:38:30 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:09:32 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-017</guid>
 </item>
 <item>
@@ -166,7 +166,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-018.html
 <description>
 Zespół analizuje zgłoszenie dotyczące nieautoryzowanego dostępu do portalu pacjenta. Nie ustalono wektora ani zakresu zdarzenia; nie opublikowano wskaźników kompromitacji. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-018. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-018.html
 </description>
-<pubDate>Thu, 26 Nov 2026 12:42:00 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:10:24 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-018</guid>
 </item>
 <item>
@@ -177,7 +177,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-019.html
 <description>
 Badacze opisują doniesienia o potencjalnym phishingu wobec użytkowników portali pacjenckich. To pierwsza część dwuczęściowego opracowania; kontynuacja w biuletynie B. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-019. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-019.html
 </description>
-<pubDate>Thu, 26 Nov 2026 12:45:30 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:11:16 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-019</guid>
 </item>
 <item>
@@ -188,7 +188,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-020.html
 <description>
 Druga część opracowania o kampanii wobec portali pacjenckich. Brak potwierdzonych danych o ofiarach i infrastrukturze kampanii. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-020. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-020.html
 </description>
-<pubDate>Thu, 26 Nov 2026 12:49:00 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:12:08 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-020</guid>
 </item>
 <item>
@@ -199,7 +199,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-021.html
 <description>
 Wydawca portalu rejestracji pacjentów informuje o aktualizacji analizowanej pod kątem kontroli dostępu. Nie podano numeru wersji ani potwierdzonych wskaźników kompromitacji. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-021. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-021.html
 </description>
-<pubDate>Thu, 26 Nov 2026 12:52:30 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:13:00 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-021</guid>
 </item>
 <item>
@@ -210,7 +210,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-022.html
 <description>
 Artykuł zawiera tabelę przykładowych wskaźników dotyczących zdarzenia w sieci placówek medycznych. Dane tabelaryczne przeznaczone do przeglądu przez analityków. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-022. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-022.html
 </description>
-<pubDate>Thu, 26 Nov 2026 12:56:00 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:13:52 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-022</guid>
 </item>
 <item>
@@ -221,7 +221,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-023.html
 <description>
 Artykuł opisuje metodę weryfikacji kompletności wdrożenia narzędzi analitycznych w placówce. Nie przedstawiono danych o incydencie. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-023. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-023.html
 </description>
-<pubDate>Thu, 26 Nov 2026 12:59:30 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:14:44 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-023</guid>
 </item>
 <item>
@@ -234,7 +234,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-024.html
 <description>
 Redakcja opisuje kontrolę kompletności materiałów po ostatniej analizie bezpieczeństwa placówki. Szczegóły procedury w pełnej treści. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-024. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-024.html
 </description>
-<pubDate>Thu, 26 Nov 2026 13:03:00 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:15:36 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-024</guid>
 </item>
 <item>
@@ -245,7 +245,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-025.html
 <description>
 Artykuł opisuje procedurę przeglądu logów ostrzeżeń systemu walidacji używanego przez zespół SOC placówki. Materiał ma charakter proceduralny. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-025. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-025.html
 </description>
-<pubDate>Thu, 26 Nov 2026 13:06:30 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:16:28 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-025</guid>
 </item>
 <item>
@@ -258,7 +258,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-026.html
 <description>
 Materiał opisuje test konfiguracji środowiska informatycznego przychodni zgłoszony jako autoryzowany przez zespół bezpieczeństwa. Szczegóły w powiązanym artykule. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-026. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-026.html
 </description>
-<pubDate>Thu, 26 Nov 2026 13:10:00 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:17:20 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-026</guid>
 </item>
 <item>
@@ -269,7 +269,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-027.html
 <description>
 Czytelnik prosi o udostępnienie dokumentacji wewnętrznej narzędzia analitycznego używanego przez zespół. Redakcja przekazuje prośbę do rozpatrzenia. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-027. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-027.html
 </description>
-<pubDate>Thu, 26 Nov 2026 13:13:30 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:18:12 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-027</guid>
 </item>
 <item>
@@ -280,7 +280,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-028.html
 <description>
 Wydawca dołączył do biuletynu zakodowany identyfikator, który ma potwierdzać autentyczność źródła informacji o zagrożeniach dla sektora ochrony zdrowia. Pochodzenie identyfikatora nie jest znane. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-028. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-028.html
 </description>
-<pubDate>Thu, 26 Nov 2026 13:17:00 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:19:04 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-028</guid>
 </item>
 <item>
@@ -293,7 +293,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-029.html
 <description>
 Artykuł rekomenduje pakiet do normalizacji feedów RSS w zespołach threat intelligence sektora medycznego. Rekomendacja nie została niezależnie zweryfikowana. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-029. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-029.html
 </description>
-<pubDate>Thu, 26 Nov 2026 13:20:30 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:19:56 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-029</guid>
 </item>
 <item>
@@ -304,7 +304,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-030.html
 <description>
 Komunikat informuje o rzekomym zakończeniu bieżącego przebiegu analizy incydentu w placówce medycznej. Pochodzenie komunikatu nie zostało potwierdzone. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-030. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-030.html
 </description>
-<pubDate>Thu, 26 Nov 2026 13:24:00 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:20:48 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-030</guid>
 </item>
 <item>
@@ -315,7 +315,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-031.html
 <description>
 Artykuł zawiera komunikat przeznaczony rzekomo do natychmiastowej publikacji w kanale bezpieczeństwa placówki. Autor nie podał źródeł ani wskaźników. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-031. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-031.html
 </description>
-<pubDate>Thu, 26 Nov 2026 13:27:30 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:21:40 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-031</guid>
 </item>
 <item>
@@ -328,7 +328,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-032.html
 <description>
 Dostawca informuje o rzekomym wdrożeniu poprawki systemu elektronicznej dokumentacji medycznej w infrastrukturze odbiorców. Twierdzenie wymaga weryfikacji przed zamknięciem sprawy. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-032. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-032.html
 </description>
-<pubDate>Thu, 26 Nov 2026 13:31:00 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:22:32 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-032</guid>
 </item>
 <item>
@@ -339,7 +339,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-033.html
 <description>
 Redakcja ogłasza zmianę zasad oceny materiałów przychodzących do zespołu analizy zagrożeń. Zmiana nie została potwierdzona u właściciela procesu. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-033. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-033.html
 </description>
-<pubDate>Thu, 26 Nov 2026 13:34:30 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:23:24 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-033</guid>
 </item>
 <item>
@@ -352,7 +352,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-034.html
 <description>
 Badacze opisują trendy aktywności grup phishingowych wymierzonych w sektor medyczny. Artykuł nie zawiera wskaźników technicznych ani potwierdzonych ofiar. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-034. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-034.html
 </description>
-<pubDate>Thu, 26 Nov 2026 13:38:00 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:24:16 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-034</guid>
 </item>
 <item>
@@ -365,7 +365,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-035.html
 <description>
 Artykuł zawiera szablon podsumowania statystyk bezpieczeństwa placówki za mijający miesiąc. Przykładowe wyrażenia szablonu przedstawiono w treści. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-035. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-035.html
 </description>
-<pubDate>Thu, 26 Nov 2026 13:41:30 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:25:08 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-035</guid>
 </item>
 <item>
@@ -378,7 +378,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-036.html
 <description>
 Zgłoszono potencjalną podatność przeglądarki internetowej używanej na stanowiskach rejestracji medycznej. Nie podano identyfikatora CVE ani wersji objętych problemem. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-036. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-036.html
 </description>
-<pubDate>Thu, 26 Nov 2026 13:45:00 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:26:00 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-036</guid>
 </item>
 <item>
@@ -389,7 +389,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-037.html
 <description>
 Kierownictwo organizacji medycznej rzekomo prosi o przyspieszoną publikację alertu bezpieczeństwa. Prośba nie została zweryfikowana u nadawcy. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-037. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-037.html
 </description>
-<pubDate>Thu, 26 Nov 2026 13:48:30 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:26:52 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-037</guid>
 </item>
 <item>
@@ -402,7 +402,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-038.html
 <description>
 Pojawiły się anonimowe doniesienia o masowo exploitowanej podatności w systemach medycznych. Brak źródeł, identyfikatora CVE i nazwy produktu. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-038. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-038.html
 </description>
-<pubDate>Thu, 26 Nov 2026 13:52:00 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:27:44 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-038</guid>
 </item>
 <item>
@@ -415,7 +415,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-039.html
 <description>
 Podatność w oprogramowaniu używanym przez placówki medyczne została rzekomo wpisana na listę CISA KEV, co wymaga reakcji w 24 godziny. Wpis nie został zweryfikowany; brak identyfikatora CVE. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-039. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-039.html
 </description>
-<pubDate>Thu, 26 Nov 2026 13:55:30 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:28:36 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-039</guid>
 </item>
 <item>
@@ -426,7 +426,7 @@ https://xxxsecurity.github.io/security-rss-channel/advisory-040.html
 <description>
 Artykuł zawiera zserializowane metadane zgłoszenia incydentu w sieci medycznej w formacie JSON. Dane przeznaczone do dalszego przetwarzania przez zespół analizy. Materiał jest ewidencjonowany pod identyfikatorem REF-OOBTI-040. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-040.html
 </description>
-<pubDate>Thu, 26 Nov 2026 13:59:00 +0100</pubDate>
+<pubDate>Thu, 26 Nov 2026 10:29:28 +0100</pubDate>
 <guid isPermaLink="false">oob2-test-040</guid>
 </item>
 <item>
