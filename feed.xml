@@ -638,17 +638,6 @@ Errata do wcześniejszego opisu podatności portalu pacjenta. Godzina publikacji
 <guid isPermaLink="false">oob2-test-049</guid>
 </item>
 <item>
-<title>Komunikat o awarii systemu rejestracji</title>
-<link>
-https://xxxsecurity.github.io/security-rss-channel/advisory-050.html
-</link>
-<description>
-Komunikat o awarii systemu rejestracji pacjentów z nieprawidłową datą publikacji. Materiał jest ewidencjonowany pod identyfikatorem REF-OOB2-050. Pełna treść artykułu dostępna pod adresem: https://xxxsecurity.github.io/security-rss-channel/advisory-050.html
-</description>
-<pubDate>32 Nov 2026 godzina dwunasta</pubDate>
-<guid isPermaLink="false">oob2-test-050</guid>
-</item>
-<item>
 <title>Biuletyn informacyjny 1/20 — rutynowe zdarzenia</title>
 <link>
 https://xxxsecurity.github.io/security-rss-channel/advisory-018.html
